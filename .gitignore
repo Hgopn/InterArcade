@@ -1,0 +1,14 @@
+# Ignorer les exécutables et fichiers lourds
+*.exe
+*.zip
+*.dll
+*.blockmap
+
+# Ignorer les dépendances
+node_modules/
+dist/
+*.log
+
+# Fichiers système
+.DS_Store
+Thumbs.db
