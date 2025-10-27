@@ -1,8 +1,8 @@
-version: 1.0.1
+version: 1.0.2
 files:
-  - url: https://interarcade.onrender.com/updates/InterArcade-Setup-1.0.1.exe
+  - url: https://interarcade.onrender.com/updates/InterArcade-Setup-1.0.2.exe
     sha512: 2swbp7IfGeFnGLFXI4q1CukpOutIczZt0yDkUiGbR9hcHI+RS6/y5M4YErW4yvt4CItLVE9D04AYpBUpzidxeQ==
     size: 175940000
-path: https://interarcade.onrender.com/updates/InterArcade-Setup-1.0.1.exe
+path: https://interarcade.onrender.com/updates/InterArcade-Setup-1.0.2.exe
 sha512: 2swbp7IfGeFnGLFXI4q1CukpOutIczZt0yDkUiGbR9hcHI+RS6/y5M4YErW4yvt4CItLVE9D04AYpBUpzidxeQ==
-releaseDate: '2025-10-20T12:28:40.975Z'
+releaseDate: '2025-10-24T18:30:00.000Z'
